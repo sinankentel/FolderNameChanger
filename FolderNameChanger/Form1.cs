@@ -19,6 +19,7 @@ namespace FolderNameChanger
 
         public Form1()
         {
+            // 22 Kasım puhs test
             InitializeComponent();
             button2.Enabled = false;
             textBox1.Text = basePath;
