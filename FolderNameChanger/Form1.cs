@@ -19,7 +19,7 @@ namespace FolderNameChanger
 
         public Form1()
         {
-            // 22 Kasım push test
+            // 22 Kasım push test2
             InitializeComponent();
             button2.Enabled = false;
             textBox1.Text = basePath;
@@ -187,6 +187,11 @@ namespace FolderNameChanger
             {
                 return true;
             }
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
         }
     }
 }
